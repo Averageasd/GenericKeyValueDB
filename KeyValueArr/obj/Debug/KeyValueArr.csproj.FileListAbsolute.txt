@@ -1,0 +1,6 @@
+C:\Users\nhuyn\source\repos\GenericKeyValueDB\KeyValueArr\bin\Debug\KeyValueArr.dll
+C:\Users\nhuyn\source\repos\GenericKeyValueDB\KeyValueArr\bin\Debug\KeyValueArr.pdb
+C:\Users\nhuyn\source\repos\GenericKeyValueDB\KeyValueArr\obj\Debug\KeyValueArr.csproj.AssemblyReference.cache
+C:\Users\nhuyn\source\repos\GenericKeyValueDB\KeyValueArr\obj\Debug\KeyValueArr.csproj.CoreCompileInputs.cache
+C:\Users\nhuyn\source\repos\GenericKeyValueDB\KeyValueArr\obj\Debug\KeyValueArr.dll
+C:\Users\nhuyn\source\repos\GenericKeyValueDB\KeyValueArr\obj\Debug\KeyValueArr.pdb

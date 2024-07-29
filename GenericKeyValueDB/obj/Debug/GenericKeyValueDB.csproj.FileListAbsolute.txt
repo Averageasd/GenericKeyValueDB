@@ -1,0 +1,10 @@
+C:\Users\nhuyn\source\repos\GenericKeyValueDB\GenericKeyValueDB\bin\Debug\GenericKeyValueDB.exe.config
+C:\Users\nhuyn\source\repos\GenericKeyValueDB\GenericKeyValueDB\bin\Debug\GenericKeyValueDB.exe
+C:\Users\nhuyn\source\repos\GenericKeyValueDB\GenericKeyValueDB\bin\Debug\GenericKeyValueDB.pdb
+C:\Users\nhuyn\source\repos\GenericKeyValueDB\GenericKeyValueDB\bin\Debug\KeyValueArr.dll
+C:\Users\nhuyn\source\repos\GenericKeyValueDB\GenericKeyValueDB\bin\Debug\KeyValueArr.pdb
+C:\Users\nhuyn\source\repos\GenericKeyValueDB\GenericKeyValueDB\obj\Debug\GenericKeyValueDB.csproj.AssemblyReference.cache
+C:\Users\nhuyn\source\repos\GenericKeyValueDB\GenericKeyValueDB\obj\Debug\GenericKeyValueDB.csproj.CoreCompileInputs.cache
+C:\Users\nhuyn\source\repos\GenericKeyValueDB\GenericKeyValueDB\obj\Debug\GenericK.ADD24C6E.Up2Date
+C:\Users\nhuyn\source\repos\GenericKeyValueDB\GenericKeyValueDB\obj\Debug\GenericKeyValueDB.exe
+C:\Users\nhuyn\source\repos\GenericKeyValueDB\GenericKeyValueDB\obj\Debug\GenericKeyValueDB.pdb
